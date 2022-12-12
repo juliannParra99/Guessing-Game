@@ -1,0 +1,1 @@
+C:\Users\julian\Desktop\RUST\Projects-repositories\Guessing-Game\guessing_game_code\target\debug\guessing_game_code.exe: C:\Users\julian\Desktop\RUST\Projects-repositories\Guessing-Game\guessing_game_code\src\main.rs
